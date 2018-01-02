@@ -1,2 +1,6 @@
 # hello-world
-first repository 
+First repository
+
+Hello world!
+
+This is my introduction to Git and Git-Hub! Wish me luck!
